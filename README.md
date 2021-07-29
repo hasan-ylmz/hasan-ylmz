@@ -7,7 +7,7 @@ I work every day to educate myself. I learn different programming languages and 
 I also deal with cyber security in some of my spare time.
 I upload my projects in bulk .
 Projects have a certain time between make  times .
-THANKS FOR VİSİT MY REPOSİTORY AND GOOD LUCK .
+Thanks for visiting and good luck .
  
 
 <!---
