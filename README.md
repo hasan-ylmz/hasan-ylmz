@@ -1,7 +1,5 @@
 
-Hello,  my name is hasan .
-I want become frontend developer . Then I want to be a full stack developer
-I know html css and bootstrap  .
+Hello  my name is hasan .
 I work every day to educate myself. I learn different programming languages and technologies over time. 
 I also deal with cyber security in some of my spare time.
 I upload my projects in bulk .
