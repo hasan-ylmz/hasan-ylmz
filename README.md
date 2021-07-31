@@ -1,6 +1,5 @@
 
-Hello,  my name is hasan and here it's my repository
-I'm doing frontend projects in spare time.
+Hello,  my name is hasan .
 I want become frontend developer . Then I want to be a full stack developer
 I know html css and bootstrap  .
 I work every day to educate myself. I learn different programming languages and technologies over time. 
