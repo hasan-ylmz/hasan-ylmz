@@ -1,5 +1,5 @@
 
-Hello , ı am hasan .
+Hello , I am hasan .
 I work every day to educating myself.
 I uploaded my projects in bulk .
 Projects have a certain time between making   time .
