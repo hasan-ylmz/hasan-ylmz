@@ -1,7 +1,6 @@
 
-Hello  my name is hasan .
-I work every day to educating myself. I learning different programming languages and technologies over time. 
-I also deal with cyber security in some of my spare time.
+Hello , ı am hasan .
+I work every day to educating myself.
 I uploaded my projects in bulk .
 Projects have a certain time between making   time .
 Thanks for visiting and good luck .
